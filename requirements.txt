@@ -1,0 +1,18 @@
+# pip3 install -r requirements.txt
+streamlit
+openai
+astrapy
+numpy
+sounddevice
+scripy
+dotenv
+gTTS
+playsound
+langchain
+tiktoken
+cassandra-driver
+cassio
+pypdf
+pandas
+langchain
+pyttsx3
